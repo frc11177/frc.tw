@@ -779,6 +779,54 @@ a {
   outline-offset: 2px !important;
   transition: outline 0.2s ease-in-out;
 }
+.cid-vsEfpaKTCR {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vsEfpaKTCR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vsEfpaKTCR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-vsEfpaKTCR .mbr-figure {
+    margin-top: 1.5rem;
+  }
+}
+.cid-vsEfpaKTCR .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-vsEfpaKTCR .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-vsEfpaKTCR .media-content,
+.cid-vsEfpaKTCR .mbr-figure {
+  align-self: center;
+}
+.cid-vsEfpaKTCR .mbr-figure iframe {
+  width: 100%;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-vsEfpaKTCR .mbr-figure {
+  border-radius: 0rem;
+  overflow: hidden;
+}
+@media (min-width: 767px) {
+  .cid-vsEfpaKTCR .mbr-figure {
+    border-radius: 2rem;
+  }
+}
 .cid-tJS6tZXiPa {
   z-index: 1000;
   width: 100%;
@@ -1403,6 +1451,54 @@ a {
 .cid-uNxBsR0NoY .mbr-text,
 .cid-uNxBsR0NoY .mbr-section-btn {
   text-align: left;
+}
+.cid-vsEg1aGdzH {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vsEg1aGdzH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vsEg1aGdzH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-vsEg1aGdzH .mbr-figure {
+    margin-top: 1.5rem;
+  }
+}
+.cid-vsEg1aGdzH .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-vsEg1aGdzH .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-vsEg1aGdzH .media-content,
+.cid-vsEg1aGdzH .mbr-figure {
+  align-self: center;
+}
+.cid-vsEg1aGdzH .mbr-figure iframe {
+  width: 100%;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-vsEg1aGdzH .mbr-figure {
+  border-radius: 0rem;
+  overflow: hidden;
+}
+@media (min-width: 767px) {
+  .cid-vsEg1aGdzH .mbr-figure {
+    border-radius: 2rem;
+  }
 }
 .cid-vjijCV1xNJ {
   padding-top: 6rem;
