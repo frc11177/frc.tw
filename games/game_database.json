@@ -1,0 +1,14 @@
+{
+  "games": {
+    "snake": [],
+    "pacman": [],
+    "clicker": [],
+    "guess": [],
+    "math": [],
+    "reflex": [],
+    "memory": [],
+    "rps": []
+  },
+  "players": {},
+  "updatedAt": "2026-08-23T12:53:34.137Z"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "html-games-hall",
+  "version": "2.0.0",
+  "description": "超級遊戲大廳 Pro - 雙欄排行與線上防竄改資料庫",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "html5-games",
+    "snake",
+    "pacman",
+    "leaderboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
